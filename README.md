@@ -5,8 +5,6 @@ CRM propio integrado con bots de Telegram: registro automático de contactos, en
 ## Estado
 Documentación de arquitectura (Fases 1 a 7). Aún sin código.
 
-## Integrante
-- Integrante 1
 
 ## Documentación
 | Fase | Archivo |
